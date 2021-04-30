@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <item name="tvType" type="id" />
+    <item name="tvReleaseYear" type="id" />
+    <item name="tvTitle" type="id" />
+    <item name="civPoster" type="id" />
+</resources>
